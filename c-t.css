@@ -3,7 +3,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5dc;
+    background-color: rgb(151, 67, 67);
     color: #333;
 }
 
@@ -71,4 +71,10 @@ body {
 
 .contact-container p {
     font-size: 1.3em;
+}
+.services-container h2 {
+    font-family: 'Lora', serif;  /* Change to any preferred font */
+    font-size: 2em;  /* Adjust size */
+    color:black;  /* Change color if needed */
+    font-weight: bold;
 }
